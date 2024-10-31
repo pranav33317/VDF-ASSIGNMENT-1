@@ -15,7 +15,7 @@ Use the shell commands only in the code. Do not use any other program (such as T
 inside your code.
 Words not matching exactly (example multitask, functioning, etc.) should not be counted.
 
-for .tcl file:
+FOR .tcl FILE:
 Write a TCL script designed to analyze a given Verilog file and ascertain the count of
 occurrences for specific Verilog keywords:
 a. always
